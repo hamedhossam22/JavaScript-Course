@@ -18,16 +18,16 @@ console.log(fullName);
   - cannot use a reserved words as a variable
 */
 
-var year = 2000;
-var year1 = 2000;
-var myBirthdate = "15/10";
-var mybirthdate = "30/9";
+// var year = 2000;
+// var year1 = 2000;
+// var myBirthdate = "15/10";
+// var mybirthdate = "30/9";
 
-// var function = 10;
-var helloWorld = 10;
+// // var function = 10;
+// var helloWorld = 10;
 
-console.log(myBirthdate);
-console.log(mybirthdate);
+// console.log(myBirthdate);
+// console.log(mybirthdate);
 
 /*
   Multi-word formating

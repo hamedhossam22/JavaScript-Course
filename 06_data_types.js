@@ -58,7 +58,7 @@ const person = {
   isMarried: false,
 };
 
-console.log(user, typeof user);
+console.log(person, typeof person);
 
 // Date
 const date = new Date("2023-07-20");
