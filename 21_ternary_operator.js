@@ -2,18 +2,14 @@
   Ternary Operator 
     - condition ? true : false
 */
-
 const age = 12;
-
 if (age > 18) {
   console.log("You can drive");
 } else {
   console.log("You cannot drive");
 }
-
-age > 18 ? console.log("You can drive") : console.log("You cannot drive");
-
-console.log(age > 18 ? "You can drive" : "You cannot drive");
+ 
+console.log(age > 18 ? "You can drive" :"You cannot drive"); // Using ternary operator 
 
 const result = age > 18 ? "You can drive" : "You cannot drive";
 

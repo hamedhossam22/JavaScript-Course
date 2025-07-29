@@ -7,7 +7,7 @@
   - NaN
 */
 
-const x = 2934;
+const x = 2434;
 
 if (x) {
   console.log("This is a truthy value");

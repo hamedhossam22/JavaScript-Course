@@ -4,10 +4,10 @@ const firstName = "Mohamed",
   job = "Frontend developer",
   birthdate = 2001;
 
-const user = "My name is " + firstName + ". I am " + age + " years old." + " I work as " + job + ".";
+const user = "My name is " + firstName + ". I am " + age + " years old." + " I work as " + job + ".";  //دي الطريقة القديمة لكتابة النصوص
 
 console.log(user);
 
-const user2 = `My name is ${firstName}. I am ${2023 - 2001} years old. My job is a ${job}.`;
+const user2 = `My name is ${firstName}. I am ${2023 - 2001} years old. My job is a ${job}.`;  // هذه الطريقة الجديدة لكتابة النصوص باستخدام القوالب النصية (Template Literals)
 
 console.log(user2);

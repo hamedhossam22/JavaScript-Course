@@ -28,3 +28,12 @@ if (isVacation === true || isWeekend === true) {
 
 console.log(!true);
 console.log(!(5 === 5));
+
+
+// Example of using logical operators in a voting scenario
+const Age = prompt("Enter your age");
+if (Age >= 18) {
+  console.log("You can vote");
+} else {
+  console.log("You cannot vote");
+}
